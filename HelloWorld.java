@@ -1,5 +1,4 @@
-Public Class HelloWorld{
-  
+Public Class HelloWorld{ 
   Public Static Void Main(String[] args){
     System.out.println("Hello world!");
   }
