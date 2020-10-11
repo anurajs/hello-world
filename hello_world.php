@@ -1,8 +1,10 @@
 <html>
 <head>
 <title>hello world</title>
-<?php 
-echo("Hello world");
-?>
 </head>
+  <body>
+    <?php 
+      echo("Hello world");
+    ?>
+  </body>
 </html>
